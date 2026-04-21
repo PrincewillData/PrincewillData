@@ -1,4 +1,4 @@
-Hi, I'm Princewill SunnyOtalor
+Hi, i am Princewill SunnyOtalor
 
 Data Analyst skilled in Excel, SQL, Power BI, and Tableau.  
 I turn raw data into clear, actionable insights that support business decisions.
